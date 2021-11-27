@@ -1,0 +1,11 @@
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\bin\Release\baza_atestat.mdf
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\bin\Release\baza_atestat_log.ldf
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\atestat info\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
